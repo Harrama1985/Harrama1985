@@ -1,36 +1,32 @@
-# Hi there, I'm Ghizlane Harrama 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=234DF1&height=190§ion=header&text=Ghizlane.dev&fontSize=58&fontColor=FACC15&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%94%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=62&descSize=20" alt="Ghizlane.dev banner" />
 
 
 
-### Full-Stack Developer — React · Next.js · Node.js
+<p align="center">
+
+  <a href="https://github.com/Harrama1985">
+
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=234DF1¢er=true&vCenter=true&width=620&lines=Hey%2C+I'm+Ghizlane.;I+build+fast%2C+maintainable+web+apps.;Clean+code+%C2%B7+Performance+%C2%B7+UX" alt="Typing animation" />
+
+  </a>
+
+</p>
 
 
 
-📍 Brescia, Italy · 7+ years building modern, scalable, high-performance web apps
+<p align="center">
+
+  📍 Brescia, Italy &nbsp;·&nbsp; <a href="mailto:ghizlane.tsdi@gmail.com">ghizlane.tsdi@gmail.com</a> &nbsp;·&nbsp; <a href="https://ghizlane-harrama.vercel.app/">Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/ghizlane-harrama-6175a919b">LinkedIn</a>
+
+</p>
 
 
 
-[![Email](https://img.shields.io/badge/Email-ghizlane.tsdi%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ghizlane.tsdi@gmail.com)
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghizlane_Harrama-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghizlane-harrama-6175a919b)
+  <img src="https://komarev.com/ghpvc/?username=Harrama1985&color=234DF1&style=flat" alt="Profile views" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ghizlane--harrama.vercel.app-234DF1?style=flat&logo=vercel&logoColor=white)](https://ghizlane-harrama.vercel.app/)
-
-
-
----
-
-
-
-## 👩‍💻 About me
-
-
-
-Full-Stack Developer specialized in **React.js, Next.js and TypeScript**, with backend experience in **Node.js and REST APIs**. I build end-to-end projects — from requirements and component architecture to API integration, optimization, deployment and maintenance — with a strong focus on user experience and clean code.
-
-
-
-Delivered solutions for **e-commerce, loyalty programs, marketing portals, dashboards, gym management and streaming platforms**.
+</p>
 
 
 
@@ -38,79 +34,77 @@ Delivered solutions for **e-commerce, loyalty programs, marketing portals, dashb
 
 
 
-## 🛠️ Tech stack
+### 🟦 What I do
+
+
+
+| ![FRONTEND](https://img.shields.io/badge/FRONTEND-234DF1?style=for-the-badge) | ![BACKEND](https://img.shields.io/badge/BACKEND-FACC15?style=for-the-badge) | ![LIFECYCLE](https://img.shields.io/badge/LIFECYCLE-111111?style=for-the-badge) |
+
+|---|---|---|
+
+| React.js, Next.js & TypeScript — modern, responsive, high-performance interfaces | Node.js & REST APIs — data layer with Prisma, SQL / NoSQL, Firebase | Requirements → architecture → API integration → testing → deployment |
+
+
+
+---
+
+
+
+### 🟨 Technical skills
 
 
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+<p>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,gatsby&perline=9" alt="Frontend" />
 
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-
-![TanStack Start](https://img.shields.io/badge/TanStack_Start-000000?style=flat&logoColor=white)
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+</p>
 
 
 
-**Backend & Data**
+**State & data fetching**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+<p>
 
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=redux&perline=9" alt="Redux" />
 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge" alt="Zustand" />
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  <img src="https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge" alt="TanStack Query" />
 
+  <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Context API" />
 
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+</p>
 
 
 
----
+**Backend & data**
+
+<p>
+
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,firebase&perline=9" alt="Backend" />
+
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge" alt="REST APIs" />
+
+  <img src="https://img.shields.io/badge/SQL_%2F_NoSQL-000000?style=for-the-badge" alt="SQL NoSQL" />
+
+</p>
 
 
 
-## 💼 Experience
+**Tools & practices**
 
+<p>
 
+  <img src="https://skillicons.dev/icons?i=git,github,docker&perline=9" alt="Tools" />
 
-| Role | Company | Period |
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 
-|------|---------|--------|
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
 
-| Frontend Developer | Fabrico Digital — Milan, Italy | 2020 – Present |
-
-| Freelance Frontend Developer | Underscore — Bahrain | 2018 – 2020 |
-
-| Mobile Developer (React Native) | Personal projects | 2017 – 2018 |
-
-| Software Developer (VB.NET) | InfoOne — Morocco | 2006 – 2008 |
+</p>
 
 
 
@@ -118,13 +112,73 @@ Delivered solutions for **e-commerce, loyalty programs, marketing portals, dashb
 
 
 
-## 📊 GitHub stats
+### ⬛ Experience
 
 
 
-![Ghizlane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrama1985&show_icons=true&theme=default)
+<details open>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrama1985&layout=compact)
+<summary><b>Frontend Developer — Fabrico Digital</b> · Milan, Italy · 2020 – Present</summary>
+
+<br>
+
+
+
+- Modern web apps end-to-end with **Next.js & React.js** — planning through deployment
+
+- Interactive **dashboards, loyalty apps, e-commerce, marketing portals, gym management, streaming platforms**
+
+- Maintain & refactor existing apps: architecture, performance, scalability
+
+- Stack: Next.js, React.js, TypeScript, Tailwind CSS, Redux, Zustand, TanStack Query, Git
+
+</details>
+
+
+
+<details>
+
+<summary><b>Freelance Frontend Developer — Underscore</b> · Bahrain · 2018 – 2020</summary>
+
+<br>
+
+
+
+- Web apps focused on creativity, functionality & performance
+
+- Flexible frontend architectures integrated with **REST APIs**
+
+- State with Redux, async data with TanStack Query — accessibility & cross-browser quality
+
+</details>
+
+
+
+<details>
+
+<summary><b>Mobile Developer — React Native</b> · Personal projects · 2017 – 2018</summary>
+
+<br>
+
+
+
+- Prototypes & screens: navigation, reusable components, basic REST API integration
+
+</details>
+
+
+
+<details>
+
+<summary><b>Software Developer — InfoOne</b> · Morocco · 2006 – 2008</summary>
+
+<br>
+
+
+
+- Desktop applications with **VB.NET** — development, maintenance & bug fixing
+
+</details>
 
 
 
@@ -132,17 +186,17 @@ Delivered solutions for **e-commerce, loyalty programs, marketing portals, dashb
 
 
 
-## 🌍 Languages
+### 🟦 Selected work
 
 
 
-- Arabic — Native
+| ![E-COMMERCE](https://img.shields.io/badge/E--COMMERCE-234DF1?style=for-the-badge) | ![LOYALTY & DASHBOARDS](https://img.shields.io/badge/LOYALTY_%26_DASHBOARDS-FACC15?style=for-the-badge) | ![PLATFORMS](https://img.shields.io/badge/PLATFORMS-111111?style=for-the-badge) |
 
-- Italian — Professional
+|---|---|---|
 
-- French — Professional
+| Storefronts & product experiences — reusable components, API integration | Data-driven interfaces — Redux / Zustand / TanStack Query | Marketing portals, gym systems & streaming — responsive & accessible |
 
-- English — Professional
+| Next.js · React · Tailwind | React · Redux · TanStack Query | Next.js · Node.js |
 
 
 
@@ -150,12 +204,62 @@ Delivered solutions for **e-commerce, loyalty programs, marketing portals, dashb
 
 
 
-## 📫 Contact
+### 🟨 Education & languages
 
 
 
-- 📧 **Email:** ghizlane.tsdi@gmail.com
+- **NTIC2** Java/J2EE/UML · **CFMOTI** dev. diploma · **Hassan II** SMP Sciences
 
-- 💼 **LinkedIn:** [linkedin.com/in/ghizlane-harrama](https://www.linkedin.com/in/ghizlane-harrama-6175a919b)
+- **Arabic** native · **IT / FR / EN** professional
 
-- 🌐 **Portfolio:** [ghizlane-harrama.vercel.app](https://ghizlane-harrama.vercel.app/)
+
+
+---
+
+
+
+### 📊 Stats
+
+
+
+<p align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harrama1985&show_icons=true&title_color=234DF1&icon_color=234DF1&text_color=1f2328&bg_color=ffffff&border_color=111111&border_radius=12" alt="GitHub stats" />
+
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harrama1985&currStreakLabel=234DF1&border=111111&border_radius=12&background=ffffff" alt="GitHub streak" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrama1985&layout=compact&title_color=234DF1&text_color=1f2328&bg_color=ffffff&border_color=111111&border_radius=12" alt="Top languages" />
+
+</p>
+
+
+
+---
+
+
+
+### 📫 Contact
+
+
+
+<p align="left">
+
+  <a href="mailto:ghizlane.tsdi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+  <a href="https://www.linkedin.com/in/ghizlane-harrama-6175a919b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+  <a href="https://ghizlane-harrama.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-234DF1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+  <a href="https://wa.me/393713081159"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+
+</p>
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=234DF1&height=110§ion=footer" alt="Footer" />
